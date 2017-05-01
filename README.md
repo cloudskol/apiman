@@ -1,2 +1,2 @@
-# apiman
-API Man is a collection of APIs for daily programming usage
+# API Man
+API Man is a collection of APIs for our daily programming usage
