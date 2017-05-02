@@ -16,6 +16,4 @@ public class Base64ManagerTest {
         final String decodedValue = Base64Manager.getInstance().decode(encoded);
         System.out.printf(decodedValue);
     }
-
-
 }
